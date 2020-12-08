@@ -98,7 +98,7 @@
         "22 5 * * * https://raw.fastgit.org/barrym-chen/Script/master/ctrip_wx/ct_sign.js, tag=携程 小程序, img-url=https://raw.fastgit.org/HotKids/Rules/master/Quantumult/X/Images/Task/ctrip.png",
         "23 5 * * * https://raw.fastgit.org/blackmatrix7/ios_rule_script/master/script/hellobike/hellobike.js, tag=哈啰出行, img-url=https://raw.fastgit.org/HotKids/Rules/master/Quantumult/X/Images/Task/hellobike.png",
         "24 5 * * * https://ooxx.be/js/jegotrip.js, tag=无忧行, img-url=https://raw.fastgit.org/HotKids/Rules/master/Quantumult/X/Images/Task/JegoTrip.png",
-        "25 5 * * * https://raw.fastgit.org/chavyleung/scripts/master/flyertea/flyertea.js, tag=飞客茶馆, img-url=https://raw.fastgit.org/HotKids/Rules/master/Quantumult/X/Images/Task/flyertea.png"
+        "25 5 * * * https://raw.fastgit.org/chavyleung/scripts/master/flyertea/flyertea.js, tag=飞客茶馆, img-url=https://raw.fastgit.org/HotKids/Rules/master/Quantumult/X/Images/Task/flyertea.png",
          "0 9 * * * https://raw.fastgit.org/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.fastgit.org/Orz-3/task/master/52pj.png, enabled=false",
         "0 9 * * * https://raw.fastgit.org/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.fastgit.org/Orz-3/task/master/tieba.png, enabled=false",
         "0 9 * * * https://raw.fastgit.org/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js, tag=哔哩哔哩漫画, img-url=https://raw.fastgit.org/Orz-3/task/master/manga.png, enabled=false",
