@@ -1,6 +1,6 @@
 {
-    "name": "大佬脚本",
-    "description": "收集自各位大佬，修改了地址以适应自己使用",
+    "name": "QX Scripts All",
+    "description": "QX Task Gallery by Peng-YM",
     "task": [
         "0 0 1,5,11 2,11,21 * ? https://raw.fastgit.org/whyour/hundun/master/quanx/shareCode-auto.js, tag=提交互助码, img-url=https://raw.fastgit.org/Orz-3/task/master/jd.png, enabled=true",
         "1,3 0,12,18 * * * https://raw.fastgit.org/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=多合一签到, img-url=https://raw.fastgit.org/Orz-3/task/master/jd.png, enabled=true",
@@ -244,6 +244,6 @@
         "5 8 * * * https://raw.fastgit.org/iisams/Scripts/master/liwo/jdtqz.js, tag= 京东特权值, img-url=https://raw.fastgit.org/Orz-3/task/master/jd.png, enabled=false",
         "0 8 * * * https://github.com/congcong0806/surge-list/raw/master/Script/daysmatter.js, tag= 倒数日, img-url=https://raw.fastgit.org/Orz-3/task/master/daysmatter.png, enabled=false",
         "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.fastgit.org/Orz-3/task/master/unipay.png, enabled=false",
-        "10 0 8 * * * https://raw.fastgit.org/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.fastgit.org/Orz-3/task/master/tuhu.png, enabled=false"
+        "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tuhu.png, enabled=false"
     ]
 }
